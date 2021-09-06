@@ -12,3 +12,7 @@ Fcitx 输入法自动切换
 ----
 
 直接安装即可
+
+fcitx5
+---
+[查看该分支](https://github.com/yuzhen1024/fcitx-status/tree/fcitx-status-v5)
